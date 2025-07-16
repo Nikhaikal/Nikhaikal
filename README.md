@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#ff69b4">Nik Haikal</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Computer+Science+Student+%7C+Penetration+Tester;Red+Team+Learner+%7C+Cyber+Explorer;Weeb+%7C+Builder+%7C+Dreamer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7F7F7&center=true&multiline=true&width=700&height=60&lines=Computer+Science+Student+%7C+Penetration+Tester;Red+Team+Learner+%7C+Cyber+Explorer;Weeb+%7C+Builder+%7C+Dreamer" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikhaikal&label=Visitors&color=blue&style=flat" alt="Visitor counter"/>
 </p>
-
 ---
 
 ## 🚀 About Me
